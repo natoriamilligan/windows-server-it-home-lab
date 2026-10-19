@@ -14,3 +14,4 @@ Configure a virtual machine using VirtualBox and install Windows Server 2025 ont
 - Installed VirtualBox
 - Created VM
 - Installed Windows Server 2025 (Desktop Experience) onto VM
+- Renamed computer to human friendly name
