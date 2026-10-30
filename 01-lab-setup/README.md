@@ -21,3 +21,4 @@ Configure a virtual machine using VirtualBox and install Windows Server 2025 ont
 - Renamed server computer to human friendly name
 - Created a static IP for the server
 - Changed network settings from NAT gateway to Host-only to isolate the network and obtain control over internet access
+- Created helpdesk account on the domain
