@@ -11,7 +11,7 @@ Set up Windows 11 for a helpdesk tech to have access to selected Active Director
 - Installed RSAT tools so that the client has access to manage select Windows Server features
 - Joined PC to domain
 - Changed group policy password max age, account lockout threshold, account lockout duration, and account lockout counter
-- Locked and account and unlocked it again
+- Locked an account and unlocked it again
 - Triggered a reset password for a user
 
 ## Troubleshooting
