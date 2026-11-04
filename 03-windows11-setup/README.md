@@ -12,7 +12,9 @@ Set up Windows 11 for a helpdesk tech to have access to selected Active Director
 - Joined PC to domain
 - Changed group policy password max age, account lockout threshold, account lockout duration, and account lockout counter
 - Locked an account and unlocked it again
+- Diabled and enabled accounts
 - Triggered a reset password for a user
+- Managed users using RSAT tools in helpdesk account
 
 ## Troubleshooting
 - I could not install Windows 11 on a VirtualBox VM. I tried changing the amount of RAM and storage allocated but I kept being met with a black screen. When I switched to VMware Workstation, Windows 11 worked but Windows Server would not. I realized that I needed to press any key quickly to enter the boot manager which was probably my problem when installing Windows 11 in VirtualBox.
