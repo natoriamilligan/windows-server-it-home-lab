@@ -10,6 +10,8 @@ Set up a DHCP server and configure reservations for devices on the network.
 - Add DHCP service to run on the DC01 server
 - Created address scope 
 - Added printer reservation
+- Disabled VMware DHCP
+- Configured CLIENT01 to use DHCP instead of static IP 
 
 # Troubleshooting
 - I tried to add the DHCP server using the Windows Administrative tool but it would not work because I had not yet installed the DHCP service in Server Manager.
