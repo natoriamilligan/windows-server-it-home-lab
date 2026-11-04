@@ -9,3 +9,4 @@ Set up group policy objects for an entire OU.
 # Tasks Completed
 - Created a GPO and enabled setting to disable access to the control panel
 - Linked the HR OU to the GPO
+- Created a GPO to set a wallpaper for users
