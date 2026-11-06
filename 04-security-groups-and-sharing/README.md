@@ -1,4 +1,4 @@
-# Security Groups and Sharing Folders
+# Security Groups and Sharing Folders (NTFS)
 
 # Objective
 Set up security groups so that authorized members can access shared folders.
